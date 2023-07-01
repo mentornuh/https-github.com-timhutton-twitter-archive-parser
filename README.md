@@ -25,17 +25,3 @@ Our script does the following:
 - Output as HTML files?
 - Parse likes and DMs too (Issues [#22](https://github.com/timhutton/twitter-archive-parser/issues/22) and [#6](https://github.com/timhutton/twitter-archive-parser/issues/6))
 
-## Related tools:
-If our script doesn't do what you want then maybe a different tool will help:
-- https://github.com/selfawaresoup/twitter-tools
-- https://github.com/roobottom/twitter-archive-to-markdown-files
-- https://gist.github.com/divyajyotiuk/9fb29c046e1dfcc8d5683684d7068efe#file-get_twitter_bookmarks_v3-py
-- https://archive.alt-text.org/
-- https://observablehq.com/@enjalot/twitter-archive-tweets
-- https://github.com/woluxwolu/twint
-- https://github.com/jarulsamy/Twitter-Archive
-- https://sk22.github.io/twitter-archive-browser/
-- https://pypi.org/project/pleroma-bot/
-- https://github.com/mshea/Parse-Twitter-Archive
-- https://github.com/dangoldin/twitter-archive-analysis
-- https://fedi.doom.solutions/tumelune/
